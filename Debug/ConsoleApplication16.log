@@ -1,0 +1,9 @@
+﻿  main.cpp
+MSVCRTD.lib(exe_winmain.obj) : error LNK2019: nierozpoznany zewnętrzny symbol _WinMain@16 przywołany w funkcji "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ)
+C:\Users\RAFFAL\Desktop\SFML-2.4.2\lib\sfml-audio-d.lib : warning LNK4272: wystąpił konflikt typu maszyny biblioteki „x64” z typem maszyny docelowej „X86”
+C:\Users\RAFFAL\Desktop\SFML-2.4.2\lib\sfml-graphics-d.lib : warning LNK4272: wystąpił konflikt typu maszyny biblioteki „x64” z typem maszyny docelowej „X86”
+C:\Users\RAFFAL\Desktop\SFML-2.4.2\lib\sfml-main-d.lib : warning LNK4272: wystąpił konflikt typu maszyny biblioteki „x64” z typem maszyny docelowej „X86”
+C:\Users\RAFFAL\Desktop\SFML-2.4.2\lib\sfml-network-d.lib : warning LNK4272: wystąpił konflikt typu maszyny biblioteki „x64” z typem maszyny docelowej „X86”
+C:\Users\RAFFAL\Desktop\SFML-2.4.2\lib\sfml-system-d.lib : warning LNK4272: wystąpił konflikt typu maszyny biblioteki „x64” z typem maszyny docelowej „X86”
+C:\Users\RAFFAL\Desktop\SFML-2.4.2\lib\sfml-window-d.lib : warning LNK4272: wystąpił konflikt typu maszyny biblioteki „x64” z typem maszyny docelowej „X86”
+c:\users\raffal\documents\visual studio 2017\Projects\ConsoleApplication16\Debug\ConsoleApplication16.exe : fatal error LNK1120: liczba nierozpoznanych elementów zewnętrznych: 1
